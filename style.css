@@ -1,0 +1,19 @@
+#main {
+text-align: center;
+background-color: #F0F;
+} 
+
+#title {
+font-family: Arial;
+background-color: blue;
+}
+#image {
+height: auto;
+max-width: 500%;
+margin: 0 auto;
+display: block;
+max-width: 100%;
+}
+h2 {
+background-color: red;
+}
